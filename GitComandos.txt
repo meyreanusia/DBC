@@ -1,0 +1,32 @@
+git init dentro da pasta
+git status - alguns detalhes do que esta acontecendo
+
+
+GIT config --global user.name "Fulano de tal"
+fit config --global user.name "fulanodetal@gmail.com
+pwd - diretorio corrente
+git config --list
+
+type nul > "nomedoarquivo.txt". - criar arquivo
+
+git cole git statuse um repositorio remoto localmente 
+git init = cria um novo repositoio de git local
+git add = adiciona os arquivos à stage do git (pronto p/ commit)
+git commit - m "feat: criado novo menu"= commita/ salva as alteraçoes que estavam na stage do git (cria bolinha)
+git push = inclui os commits criados no repositorio 
+git pull = "puxa"os arquivos que estào remotos no repositorio e que eu nao possuo localmente na minha máquina
+git fetxh = puxa / atua;iza a lista de branches do repositorio local
+git status = mostra o status atual do meu repositorio local
+git log = historico de commit
+chekout git menage - 
+git checkout - 
+it branch mostra todas as branchs 
+
+.gitignore
+
+
+git checkout -b feature/meyre-anusia - criar branch 
+git push origin feature/meyre-anusia
+git merge main - junta a branch local com a branch do comando 
+
+

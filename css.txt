@@ -1,0 +1,10 @@
+*{
+	box-sizin: border-box
+}
+heigth altura
+width largura 
+outline - contorne/traçado
+margin margem externa
+bordin
+padding borda interna
+box-sizing: border-box
